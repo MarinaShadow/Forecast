@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c96c0657.chunk.css",
+    "main.js": "/static/js/main.ddbaa317.chunk.js",
+    "main.js.map": "/static/js/main.ddbaa317.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ead09c4b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ead09c4b.js.map",
+    "static/js/2.6f3e47fb.chunk.js": "/static/js/2.6f3e47fb.chunk.js",
+    "static/js/2.6f3e47fb.chunk.js.map": "/static/js/2.6f3e47fb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b3a05f17bd111514e848b090fc4ebcde.js": "/precache-manifest.b3a05f17bd111514e848b090fc4ebcde.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c96c0657.chunk.css.map": "/static/css/main.c96c0657.chunk.css.map",
+    "static/js/2.6f3e47fb.chunk.js.LICENSE": "/static/js/2.6f3e47fb.chunk.js.LICENSE",
+    "static/media/index.scss": "/static/media/weather-icon-sunny.5e112c61.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead09c4b.js",
+    "static/js/2.6f3e47fb.chunk.js",
+    "static/css/main.c96c0657.chunk.css",
+    "static/js/main.ddbaa317.chunk.js"
+  ]
+}
